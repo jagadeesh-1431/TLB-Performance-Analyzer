@@ -10,6 +10,7 @@ num_pages = st.number_input("Number of Pages", value=256)
 num_frames = st.number_input("Number of Frames", value=128)
 tlb_size = st.number_input("TLB Size", value=16)
 num_accesses = st.number_input("Number of Memory Accesses", value=1000)
+ # i was using here to run the simulation to perform the calculation and graphing the results using streamlit.
 
 if st.button("Run Simulation"):
 

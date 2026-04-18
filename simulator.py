@@ -54,5 +54,4 @@ class MemorySimulator:
             status = "TLB MISS"
 
         physical_address = frame_number * self.page_size + offset
-
         return page_number, frame_number, offset, physical_address, status
