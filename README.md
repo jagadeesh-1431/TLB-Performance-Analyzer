@@ -13,7 +13,7 @@ In computer architecture, a **Translation Lookaside Buffer (TLB)** is a memory c
 ---
 
 ## 📸 Demo
-![App Screenshot](demo_screenshot.png)
+![TLB Dashboard](TLB-Dashboard.png)
 *Modern Streamlit-based Web Interface for interactive analysis.*
 
 ---
@@ -126,3 +126,10 @@ streamlit run app.py
 ## 👨‍💻 Author
 **Jagadeesh**
 [GitHub Profile](https://github.com/jagadeesh-1431)
+
+**Anjir Gautam**
+[GitHub Profile](https://github.com/anjir-gautam)
+
+**Tisha sinha**
+[GitHub Profile](https://github.com/Tishasinha15)
+
